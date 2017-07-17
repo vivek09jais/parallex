@@ -5,6 +5,7 @@ body, html {
   font-family: "lato", sans-serif;
   font-weight: 400;
   color: #666;
+  line-height: 1.8em;
 }
 
 .img1, .img2, .img3 {
@@ -59,4 +60,6 @@ body, html {
 }
 strong {
   color: #e00d0d;
+  float:right;
+
 }
